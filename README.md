@@ -19,7 +19,7 @@ Menampilkan daftar barang elektronik secara lengkap.
 ## Instalasi
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/arkan894/Perbaikan_PemWeb.git
+   git clone https://github.com/arkan894/inventaris_lab_elektronik.git
    cd Perbaikan_PemWeb
    
 2. Jalankan perintah berikut untuk menginstall dependency PHP:
